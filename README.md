@@ -1,4 +1,4 @@
-![Banner](./Imagenes/Diego%20Wolf%20Cruz.png)
+![Banner](./Imagenes/Banner.png)
 
 <center> <h1>🐺Developer de Videojuegos y Software Interactivo en Crecimiento🐺</h1> </center>
 
